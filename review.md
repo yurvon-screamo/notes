@@ -35,7 +35,7 @@ Definition of done:
 Definition of done:
 
 * [ ] Does the architecture in the docs align with reality?
-* [ ] Do system operations in the docs match reality?
+* [ ] Do api in the docs match reality?
 * [ ] Does the service's configuration in the docs match reality?
 * [ ] Is the "NRF" (Non-Functional Requirements) of the service from the docs fulfilled?
 * [ ] Is the observability of the service from the docs ensured?
