@@ -12,7 +12,7 @@ All server requests must be restricted to authenticated users, and BASIC authent
 
 Communication between the server and the client should use a text data format - JSON.
 
-As a data source, the implementation should use one of the services on the internet (for example).
+As a data source, the implementation should use one of the services on the internet.
 
 The application should be runnable in a Docker container.
 
