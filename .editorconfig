@@ -343,7 +343,7 @@ dotnet_diagnostic.IDE0290.severity = error
 
 dotnet_diagnostic.HAA0101.severity = suggestion
 dotnet_diagnostic.HAA0301.severity = suggestion
-dotnet_diagnostic.HAA0303g.severity = suggestion
+dotnet_diagnostic.HAA0303.severity = suggestion
 dotnet_diagnostic.HAA0401.severity = suggestion
 dotnet_diagnostic.HAA0601.severity = suggestion
 
